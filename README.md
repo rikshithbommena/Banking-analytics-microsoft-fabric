@@ -30,28 +30,22 @@ The Power BI report provides an interactive view of key banking metrics and busi
 
 ## 🔄 End-to-End Workflow
 
-```text
 Raw Banking Data
-       ↓
+      ↓
 Excel
-       ↓
+      ↓
 Data Cleaning
-       ↓
+      ↓
 SQL Server
-       ↓
+      ↓
 SQL Analysis
-       ↓
+      ↓
 Python
-       ↓
+      ↓
 Exploratory Data Analysis
-       ↓
+      ↓
 Microsoft Fabric
-
-## ☁️ Microsoft Fabric
-
-```text
-Raw Banking Data
-...
+----
 
 ## ☁️ Microsoft Fabric
 
