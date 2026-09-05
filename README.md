@@ -14,7 +14,7 @@ The Power BI report provides an interactive view of key banking metrics and busi
 
 ## Project Architecture
 
-![Banking Analytics Architecture](architecturediagram.png)
+![Banking Analytics Architecture](architecture%20diagram.png)
 
 ## 🎯 Project Objectives
 
