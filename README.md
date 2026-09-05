@@ -46,6 +46,32 @@ Python
 Exploratory Data Analysis
        ↓
 Microsoft Fabric
+
+## ☁️ Microsoft Fabric
+
+The project uses Microsoft Fabric to build a modern end-to-end analytics architecture.
+
+### Lakehouse
+
+- **Bronze Layer** — Raw banking data
+- **Silver Layer** — Cleaned and transformed data
+- **Gold Layer** — Business-ready dimensional model
+
+### Data Engineering
+
+- PySpark transformations
+- Delta tables
+- Data quality validation
+- Star schema design
+- Dimension and fact tables
+
+### Semantic Modeling
+
+A Direct Lake semantic model was created on top of the Gold layer to support efficient analytical reporting.
+
+### Power BI
+
+The semantic model is connected to Power BI Desktop using a live connection to build the final multi-page banking analytics report.
        ↓
 Bronze → Silver → Gold
        ↓
